@@ -1,0 +1,21 @@
+{
+    "appclips": {
+        "apps": [
+            "BV28C32GBU.com.tcl.newtcllink.AppClip"
+        ]
+    },
+    "applinks": {
+        "details": [
+            {
+                "appIDs": [
+                    "BV28C32GBU.com.tcl.newtcllink"
+                ],
+                "components": [
+                    {
+                        "/": "/clip/*"
+                    }
+                ]
+            }
+        ]
+    }
+}
