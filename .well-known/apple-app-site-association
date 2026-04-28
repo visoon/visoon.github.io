@@ -1,14 +1,15 @@
 {
     "appclips": {
         "apps": [
-            "BV28C32GBU.com.tcl.newtcllink.AppClip"
+            "6UUKAKRV97.com.tcl.tcllink.AppClip"
         ]
     },
     "applinks": {
         "details": [
             {
                 "appIDs": [
-                    "BV28C32GBU.com.tcl.newtcllink"
+                    "6UUKAKRV97.com.tcl.tcllink",
+                    "6UUKAKRV97.com.tcl.tcllink.AppClip"
                 ],
                 "components": [
                     {
